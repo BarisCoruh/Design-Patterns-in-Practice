@@ -15,6 +15,7 @@ Each pattern will be implemented in its own folder, explained step by step.
 
 ## 🗂️ Pattern Categories
 
+```plaintext
 DesignPatternsInPractice/
 │
 ├── Creational/               → Oluşturucu (Nesne yaratma odaklı desenler)
@@ -50,5 +51,4 @@ DesignPatternsInPractice/
 │
 ├── README.md                → Projenin genel açıklaması
 └── LICENSE                  → Lisans dosyası (örn. MIT)
-
-
+```
